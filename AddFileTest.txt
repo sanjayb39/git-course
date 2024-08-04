@@ -1,0 +1,2 @@
+this is adding a file to remote repo from VS code
+So for course demo.
